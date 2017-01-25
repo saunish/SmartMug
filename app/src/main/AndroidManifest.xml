@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.saunish.smartmug">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/app_logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".WelcomeSplash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".loginHome"
+            android:label="MadMug Login"/>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="41481fbef087dd0959e4207776a3f43899a1c21f" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

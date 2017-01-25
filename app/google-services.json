@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090643646139",
+    "project_id": "firebase-madmug"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090643646139:android:f017df62999885df",
+        "android_client_info": {
+          "package_name": "com.saunish.smartmug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090643646139-1m8s12jasve8nt9p2rf2k0l4d654ttvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saunish.smartmug",
+            "certificate_hash": "8B5D6F43789E643D3CC074B5E9B087ECA1E5802B"
+          }
+        },
+        {
+          "client_id": "1090643646139-71qslr4qkjaf0pj2ffjo58be8q8ejkht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBydoKDYS2N1qJfkrPRq7SjW5JCq-DHj5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
